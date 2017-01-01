@@ -1,2 +1,3 @@
 # LXHStatusHUD
-未完成
+##objc
+[LXHStatusHUD showSuccess:@"haha" image:nil];
